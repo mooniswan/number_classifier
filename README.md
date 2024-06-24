@@ -1,3 +1,4 @@
-# 숫자 분류기
+# MNIST Digit Classifier
 
-MNIST 데이터셋을 사용해 숫자 인식을 학습하고 마우스로 그려진 숫자를 예측하여 결과를 표시합니다.
+This project is a simple MNIST digit classifier using TensorFlow and Tkinter. <br/>
+Users can draw a single digit on a Canvas, and the model will predict the digit.
